@@ -1,0 +1,96 @@
+%run "/Users/nbitting/Documents/CIS435/Assignment 1/BittingNate_435_Assignment_1/BittingNate_Assignment_1_Supplemental/Assignment 1 Alternate.py"
+shopping CV Result: 0.786
+shopping Accuracy:0.790 
+
+antiquing CV Result: 0.795
+antiquing Accuracy:0.805 
+
+scenery CV Result: 0.623
+scenery Accuracy:0.678 
+
+eatfine CV Result: 0.613
+eatfine Accuracy:0.611 
+
+eatcasual CV Result: 0.651
+eatcasual Accuracy:0.638 
+
+eatfamstyle CV Result: 0.782
+eatfamstyle Accuracy:0.754 
+
+eatfastfood CV Result: 0.608
+eatfastfood Accuracy:0.608 
+
+museums CV Result: 0.58
+museums Accuracy:0.611 
+
+indoorpool CV Result: 0.708
+indoorpool Accuracy:0.681 
+
+outdoorpool CV Result: 0.807
+outdoorpool Accuracy:0.720 
+
+hiking CV Result: 0.744
+hiking Accuracy:0.739 
+
+gambling CV Result: 0.658
+gambling Accuracy:0.684 
+
+boatswim CV Result: 0.656
+boatswim Accuracy:0.596 
+
+fishing CV Result: 0.75
+fishing Accuracy:0.745 
+
+golfing CV Result: 0.716
+golfing Accuracy:0.729 
+
+boattours CV Result: 0.619
+boattours Accuracy:0.587 
+
+rideducks CV Result: 0.618
+rideducks Accuracy:0.596 
+
+amusepark CV Result: 0.722
+amusepark Accuracy:0.745 
+
+minigolf CV Result: 0.634
+minigolf Accuracy:0.641 
+
+gocarting CV Result: 0.688
+gocarting Accuracy:0.657 
+
+waterpark CV Result: 0.833
+waterpark Accuracy:0.836 
+
+circusworld CV Result: 0.681
+circusworld Accuracy:0.653 
+
+tbskishow CV Result: 0.592
+tbskishow Accuracy:0.614 
+
+helicopter CV Result: 0.799
+helicopter Accuracy:0.815 
+
+horseride CV Result: 0.623
+horseride Accuracy:0.678 
+
+standrock CV Result: 0.733
+standrock Accuracy:0.754 
+
+outattract CV Result: 0.532
+outattract Accuracy:0.599 
+
+nearbyattract CV Result: 0.583
+nearbyattract Accuracy:0.611 
+
+movietheater CV Result: 0.827
+movietheater Accuracy:0.827 
+
+concerttheater CV Result: 0.744
+concerttheater Accuracy:0.760 
+
+barpubdance CV Result: 0.712
+barpubdance Accuracy:0.754 
+
+shopbroadway CV Result: 0.709
+shopbroadway Accuracy:0.666 
